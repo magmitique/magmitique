@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋
+😄 Pronouns: he/him  
+🇫🇷 Based in France  
+
+💻 Tech, networks & systems.  
+🧠 Learn. Test. Understand.  
+🧪 Work in progress.
 
 <!--
 **magmitique/magmitique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
