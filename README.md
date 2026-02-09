@@ -1,12 +1,14 @@
 # 👋
 🌱 A little sapling waiting to grow
+
 😄 Pronouns: he/him  
 🇫🇷 Based in France  
 
 💻 Tech, networks & systems.  
 🧠 Learn. Test. Understand.  
-🧪 Work in progress. \
-                        [MAGMITIQUE](https://github.com/magmitique)
+🧪 Work in progress.
+
+- [MAGMITIQUE](https://github.com/magmitique)
 <!--
 **magmitique/magmitique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
